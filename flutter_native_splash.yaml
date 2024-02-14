@@ -1,0 +1,18 @@
+flutter_native_splash:
+  #  background_image: assets/background_28237.png
+  image: assets/native_splash_flutter_fest.png
+  color: "#0278ff"
+
+  android_12:
+    #    background_image: assets/background_28237.png
+    image: assets/native_splash_flutter_fest.png
+    color: "#a04c20"
+
+
+#  how to change launcher icon
+
+#  flutter clean
+#  flutter pub get
+#  flutter pub run flutter_native_splash:create
+
+#  dart run flutter_native_splash:create --path=flutter_native_splash.yaml
